@@ -1,0 +1,28 @@
+.box{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.content{
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+b{
+    font-weight: 600;
+    align-content: center;
+}
+p{
+    font-weight: 400;
+    color: #5b5959;
+}
+.name{
+    color: white;
+    font-size: small;
+    padding: 3px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
